@@ -2,8 +2,8 @@
   "manifest_version": 3,
   "name": "DSA Problem Tracker",
   "version": "0.1",
-  "author": "First Last",
-  "description": "A description about your Chrome Extension...",
+  "author": "Aman Phogat",
+  "description": "we will be bookmarking the DSA problems and making notes for that also.",
   "permissions": [
     "activeTab",
     "storage"
